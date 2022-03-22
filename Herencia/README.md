@@ -1,6 +1,6 @@
 # Proyecto Herencia Figuras
 ### Integrantes:
-1. Bairon 
+1. Bairon Stiven Torres Ruano
 2. Miguel Angel Sanchez Paez
 
 ## Descripcion
