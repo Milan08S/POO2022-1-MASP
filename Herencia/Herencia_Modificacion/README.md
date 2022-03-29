@@ -1,7 +1,8 @@
 # Nueva herencia
 
-## Integrante: 
+## Integrantes: 
 * Miguel Angel Sanchez Paez
+* Bairon Stiven Ruano
 
 ## Descripcion:
 
